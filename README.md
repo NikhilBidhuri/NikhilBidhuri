@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NikhilBidhuri
-- 👀 I’m interested in Programming 
-- 🌱 I’m currently learning Machine Learning
+- 👀 I’m interested in Sitecore Development 
+- 🌱 I’m currently learning Web Development
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me INSTA-  @nikhilbidhuri21
 
