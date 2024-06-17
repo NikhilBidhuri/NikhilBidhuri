@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nikhil Bidhuri</h1>
 <h3 align="center">A Sitecore Developer with React and Next.js Skills</h3>
 
-- 🔭 I’m currently working on **AllState Canada**
-
 - 🌱 I’m currently learning **Next.js, React**
 
 - 👯 I’m looking to collaborate on **Sitecore Projects**
