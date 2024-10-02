@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Sitecore JSS and Sitecore Development**
 
-- 📫 How to reach me **Nikhilbidhuri1@gmail.com**
+- 📫 How to reach me **[https://www.nsbconsultancy.com/nikhilbidhuri]**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
